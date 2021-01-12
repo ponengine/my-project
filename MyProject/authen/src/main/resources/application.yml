@@ -1,0 +1,6 @@
+security:
+  jwt:
+    key-store: classpath:oreokey.jks
+    key-store-password: N@th@p0n
+    key-pair-alias: server
+    key-pair-password: N@th@p0n
